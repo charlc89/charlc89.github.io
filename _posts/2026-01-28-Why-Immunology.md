@@ -22,7 +22,8 @@ Every immune cell plays a role in the body, like an orchestra:
   <li>Eosinophil: Response to parasitic infection</li>
 </ul>
 <style>
-  ul li {
-    padding-left: 20px; /* Adjust the value as needed */
+  /* Adds 20px padding around the entire list */
+  ul.padded-list {
+    padding: 20px;
   }
 </style>
