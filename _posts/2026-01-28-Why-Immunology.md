@@ -11,9 +11,9 @@ The study of immunology is fascinating.
 
 Every immune cell plays a role in the body, like an orchestra:
 <style>
-  /* Adds 20px padding around the entire list */
+  /* Adds 40px padding around the entire list */
   ul.padded-list {
-    padding: 20px;
+    padding: 40px;
   }
 </style>
 
