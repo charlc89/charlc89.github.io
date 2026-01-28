@@ -2,7 +2,7 @@
 title: Why Immunology?
 categories:
 - General
-feature_image: "https://i.pinimg.com/736x/d3/b5/19/d3b519e45354a26de6456cd5d9c05579.jpg"
+feature_image: "https://wallpapercave.com/wp/wp3653302.png"
 ---
 
 The study of immunology is fascinating. Every immune cell has its own personality to work inside the human body. 
