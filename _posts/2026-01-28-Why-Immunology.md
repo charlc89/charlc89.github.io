@@ -23,6 +23,6 @@ Every immune cell plays a role in the body, like an orchestra:
 </ul>
 <style>
   ul li {
-    margin-bottom: 15px; /* Adjust the value as needed (e.g., in px, em, or rem) */
+    padding-left: 20px; /* Adjust the value as needed */
   }
 </style>
