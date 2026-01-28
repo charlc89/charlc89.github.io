@@ -5,8 +5,7 @@ categories:
 feature_image: "/assets/images/cellatwork.webp"
 ---
 
-The study of immunology is fascinating. Every immune cell has its own personality to work inside the human body. 
-
+The study of immunology is fascinating. The immune cells communicate with each other and work together while behaving with different personalities inside the human body. 
 <!-- more -->
 
 Every immune cell plays a role in the body, like an orchestra:
