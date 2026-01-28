@@ -21,3 +21,8 @@ Every immune cell plays a role in the body, like an orchestra:
   <li>Basophil: Release inflammatory cytokines</li>
   <li>Eosinophil: Response to parasitic infection</li>
 </ul>
+<style>
+  ul li {
+    margin-bottom: 15px; /* Adjust the value as needed (e.g., in px, em, or rem) */
+  }
+</style>
