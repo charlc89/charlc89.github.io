@@ -2,10 +2,10 @@
 title: Why Immunology?
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://i.pinimg.com/736x/d3/b5/19/d3b519e45354a26de6456cd5d9c05579.jpg"
 ---
 
-The study of immunology is fascinating. 
+The study of immunology is fascinating. Every immune cell has its own personality to work inside the human body. 
 
 <!-- more -->
 
@@ -16,7 +16,6 @@ Every immune cell plays a role in the body, like an orchestra:
     padding: 40px;
   }
 </style>
-
 <ul class="padded-list">
   <li>Macrophage: Eliminate pathogens by phagocytosis and present antigens to helper T cells </li>
   <li>Helper T-cell: Activates killer T cells and B cells </li>
