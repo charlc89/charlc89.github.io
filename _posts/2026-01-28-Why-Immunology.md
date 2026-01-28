@@ -3,7 +3,7 @@ title: Why Immunology?
 categories:
 - General
 feature_image: "/assets/images/cellatwork.webp"
-image_focus: center top
+image_focus: "top right"
 ---
 
 The study of immunology is fascinating. The immune cells communicate with each other and work together while behaving with different personalities inside the human body. 
