@@ -5,7 +5,7 @@ categories:
 feature_image: "/assets/images/cellatwork.png"
 ---
 
-The study of immunology is fascinating. The immune cells communicate with each other and work together while behaving with different personalities inside the human body. There are still many unknowns about how they are educated from a naive student towards a mature specialist to safeguard our body in different disease contexts. 
+The study of immunology is fascinating. Immunology invites us into a hidden world where countless cells speak in whispers of signals. The immune cells communicate with each other and work together while behaving with different personalities inside the human body. 
 <!-- more -->
 
 Every immune cell plays a role in the body, like an orchestra:
@@ -25,4 +25,5 @@ Every immune cell plays a role in the body, like an orchestra:
   <li>Basophil: Release inflammatory cytokines</li>
   <li>Eosinophil: Response to parasitic infection</li>
 </ul>
-
+<!--more -->
+There are still many unknowns about how they are educated from a naïve beginner towards a mature specialist to safeguard our body in different disease contexts. On top of that, we can equip them to tackle the disease more effectively and precisely via engineering. 
