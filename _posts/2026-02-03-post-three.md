@@ -11,3 +11,5 @@ image: "https://picsum.photos/2560/600?image=733"
 ---
 
 Hosking MP et al. engineered the iPSC-derived CAR T cells with multi-gene insertion to overcome the repressive tumour microenvironments in breast cancers. 
+
+<img src="/assets/images/CAR.png">
