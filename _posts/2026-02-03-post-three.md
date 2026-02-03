@@ -1,5 +1,5 @@
 ---
-title: Engineering iPSC-derived CAR-T cells with 
+title: Engineering iPSC-derived CAR-T cells with multiple moieties
 categories:
 - Article
 excerpt: |
@@ -12,7 +12,7 @@ image: "https://picsum.photos/2560/600?image=733"
 
 Hosking MP et al. engineered the iPSC-derived CAR T cells with multi-gene insertion to overcome the repressive tumour microenvironments in breast cancers. 
 
-<img src="/assets/images/CAR.png">
+<img src="/assets/images/CAR.png" width="500" height="600">
 
 The following genes were knocked into the T cell receptor alpha (TRAC) and CD38 loci:
 <ul>
