@@ -21,3 +21,9 @@ The following genes were knocked into the T cell receptor alpha (TRAC) and CD38 
   <li>CXCR2: solid tumour trafficking</li>
   <li>IL7R fusion: improve iPSC-derived CAR-T cells persistence</li>
 </ul>
+<h3>Questions to be addressed</h3>
+1. How does the multiplex engineering of H2-7E iT cells impact their long-term persistence and anti-tumour efficacy in vivo?
+2. How can the engineering of additional chemokine receptors further enhance the trafficking of H2-7E iT cells to solid tumors?
+3. What strategies can be employed to monitor and mitigate potential adverse effects associated with H2-7E iT therapy?
+<h3>Reference</h3>
+<a href="https://www.cell.com/cell-stem-cell/abstract/S1934-5909(25)00187-0"> Hosking, Martin P. et al. Preferential tumor targeting of HER2 by iPSC-derived CAR T cells engineered to overcome multiple barriers to solid tumor efficacy. Cell Stem Cell, Volume 32, Issue 7, 1087 - 1101.e4 </a>
