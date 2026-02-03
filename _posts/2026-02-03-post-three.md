@@ -14,7 +14,7 @@ Hosking MP et al. engineered the iPSC-derived CAR T cells with multi-gene insert
 
 <img src="/assets/images/CAR.png" width="250" height="300">
 
-The following genes were knocked into the T cell receptor alpha (TRAC) and CD38 loci:
+The following genes were knocked into the T cell receptor alpha (TRAC) and CD38 loci of iPSC:
 <ul>
   <li>A high affinity non-cleavable CD16a: multi-gene targeting with ADCC-enabled monoclonal antibodies</li>
   <li>TGF-βR2-IL18R: resistent to TGF-β repression</li>
