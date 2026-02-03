@@ -13,3 +13,11 @@ image: "https://picsum.photos/2560/600?image=733"
 Hosking MP et al. engineered the iPSC-derived CAR T cells with multi-gene insertion to overcome the repressive tumour microenvironments in breast cancers. 
 
 <img src="/assets/images/CAR.png">
+
+The following genes were knocked into the T cell receptor alpha (TRAC) and CD38 loci:
+<ul>
+  <li>A high affinity non cleavable CD16a: multi-gene targeting with ADCC-enabled monoclonal antibodies</li>
+  <li>TGF-βR2-IL18R: resistent to TGF-β repression</li>
+  <li>CXCR2: solid tumour trafficking</li>
+  <li>IL7R fusion: improve iPSC-derived CAR-T cells persistence</li>
+</ul>
