@@ -16,3 +16,6 @@ excerpt: "But man is made for defeat. A man can be destroyed, but not defeated -
     {% include post-list.html %}
 
 </main>
+
+<a href='https://www.counters-free.net/'>counter-FREE</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4b59e8f2d84001bc7cd1cfffeaad970fd14df4'></script>
+<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/1496082/t/5"></script>
