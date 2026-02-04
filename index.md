@@ -16,3 +16,23 @@ excerpt: "But man is made for defeat. A man can be destroyed, but not defeated -
     {% include post-list.html %}
 
 </main>
+
+ <div class="counter" id="visitorCounter"></div>
+
+    <script>
+        // Check if the visitor count is already in localStorage
+        let visitorCount = localStorage.getItem('visitorCount');
+        
+        // If not, initialize it
+        if (!visitorCount) {
+            visitorCount = 1; // First visitor
+        } else {
+            visitorCount = parseInt(visitorCount) + 1; // Increase count
+        }
+        
+        // Store the updated count
+        localStorage.setItem('visitorCount', visitorCount);
+        
+        // Display the count of visitors
+        document.getElementById('visitorCounter').innerText = `Number of visitors: ${visitorCount}`;
+    </script>
