@@ -1,5 +1,4 @@
 ---
-title: Elements
 feature_text: |
   
 feature_image: "/assets/IMG_0238_Fotor.jpeg"
