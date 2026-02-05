@@ -56,6 +56,9 @@ aside: true
     <div class="gallery-item">
         <img src="/assets/IMG_2553.jpeg" alt="Image 2">
     </div>
+    <div class="gallery-item">
+        <img src="/assets/Dark_Firewood.jpeg" alt="Image 3">
+    </div>
    
     <!-- Add more images as needed -->
 </div>
