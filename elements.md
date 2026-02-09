@@ -59,16 +59,16 @@ aside: true
     <div class="gallery-item">
         <img src="/assets/Dark_Firewood.jpeg" alt="Image 3">
     </div>
-     <div class="gallery-item">
-        <img src="/assets/gallery/DSC_3366.JPG" alt="Image 4">
+    <div class="gallery-item">
+        <img src="/assets/gallery/IMG_1075.JPG" alt="Image 4">
     </div>
      <div class="gallery-item">
-        <img src="/assets/gallery/IMG_1063.PNG" alt="Image 5">
+        <img src="/assets/gallery/DSC_3366.JPG" alt="Image 5">
     </div>
      <div class="gallery-item">
-        <img src="/assets/gallery/IMG_1075.JPG" alt="Image 6">
+        <img src="/assets/gallery/IMG_1063.PNG" alt="Image 6">
     </div>
-   
+    
     <!-- Add more images as needed -->
 </div>
 
